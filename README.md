@@ -1,6 +1,6 @@
 # Projet_ClientServeur_Shamyu
 
-#L'application client-serveur en 3 parties:
+# L'application client-serveur en 3 parties:
 
     - une requête pour obtenir un document disponible sur le serveur
     - une requête pour obtenir la liste des documents disponible sur le serveur
@@ -13,6 +13,6 @@ Pour exécuter le programme, vous allez ouvrir un terminal sur le dossier où se
 
 Vous allez ensuite exécutez les code suivant: Pour serveur: "gcc -o Projet_ClientServeur_Shamyu server2.c" et Pour client: "gcc -o Projet_ClientServeur_Shamyu client2.c"
 
-#Author
+# Author
 
-*Sham yu George Adrien
+* Sham yu George Adrien
